@@ -3,6 +3,8 @@ int main(){
 	int b;
 	
 	lol-kek-cheburek
+
+	lal
 	
 	qwlejkfnolwejngfowejng
 	werg;lkw
