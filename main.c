@@ -5,7 +5,7 @@ int main(){
 	
 	
 	qwlejkfnolwejngfowejng
-	werg;lkwnelgknwe
+	werg;lkw
 	
 	
 	
@@ -22,7 +22,12 @@ int main(){
 	
 	lol lal
 	
-	kek
+	kek-lol
 	
 	add some functionality
+}
+
+
+void func(void) {
+	feature-2
 }
