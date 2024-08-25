@@ -15,13 +15,12 @@ int main(){
 	ww
 	
 	
-	welgjnwolejgnlwoejkngloweng
 	
 	
-	
-	elwnegljwnelgjknwe
-	
+		
 	
 	
 	lol lal
+	
+	kek
 }
