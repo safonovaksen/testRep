@@ -2,7 +2,7 @@ int main(){
 	int ad;
 	int b;
 	
-	lol-kek
+	lol-kek-cheburek
 	
 	qwlejkfnolwejngfowejng
 	werg;lkw
